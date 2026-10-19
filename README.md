@@ -1,7 +1,7 @@
 # Tarea 3 – Procesamiento de Datos con Apache Spark
 
 Curso **Big Data (202016911)** – UNAD, Ingeniería de Sistemas.
-Autor: **[Andres_Cerqeura]** · Grupo: **[202016911A__156]**
+Autor: **[Andres_Cerquera]** · Grupo: **[202016911A__156]**
 
 ## 1. Problema
 
@@ -87,4 +87,4 @@ que obtengas al ejecutar el código.]
 
 ## 9. Autor y licencia
 
-[Tu nombre] – Trabajo académico, UNAD. Datos: Instituto Nacional de Salud (datos abiertos).
+[Andres_Cerquera] – Trabajo académico, UNAD. Datos: Instituto Nacional de Salud (datos abiertos).
